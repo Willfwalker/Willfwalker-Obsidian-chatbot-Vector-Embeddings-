@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+
+# Build files
+main.js
+*.js.map
+
+
+# Environment variables
+.env
+.env.local
+
+# Plugin data (contains API keys and chat history)
+data.json
+
+# Vector database (can be large)
+vectors.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+*.tmp
+*.swp
+*~
