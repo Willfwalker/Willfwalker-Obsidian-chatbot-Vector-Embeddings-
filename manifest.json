@@ -1,0 +1,10 @@
+{
+  "id": "gemini-vector-chat",
+  "name": "Gemini Vector Chat",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Chat with your notes using Google Gemini AI and vector search",
+  "author": "Will Walker",
+  "authorUrl": "https://github.com/willwalker",
+  "isDesktopOnly": false
+}
